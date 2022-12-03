@@ -1,3 +1,10 @@
+
+# Bounce.js dist
+2
+As [bouncejs.com](http://bouncejs.com) is dead, I decided to generate the dist from the [Bounce.js](https://github.com/tictail/bounce.js) project and push it. You can pull it and run it locally or on your own server.
+
+In the `dist` folder, you'll find two versions. One before the keyframe optimization and one after, as the latter renders smoother animations in my opinion.
+
 # Bounce.js
 
 [Bounce.js](http://bouncejs.com) is a tool and JS library for generating beautiful CSS3 powered keyframe animations. The tool on [bouncejs.com](http://bouncejs.com) allows you to generate static keyframes that can be used without any extra JavaScript, but if you'd like your application
