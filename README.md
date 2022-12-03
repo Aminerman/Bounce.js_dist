@@ -1,6 +1,6 @@
 
 # Bounce.js dist
-2
+
 As [bouncejs.com](http://bouncejs.com) is dead, I decided to generate the dist from the [Bounce.js](https://github.com/tictail/bounce.js) project and push it. You can pull it and run it locally or on your own server.
 
 In the `dist` folder, you'll find two versions. One before the keyframe optimization and one after, as the latter renders smoother animations in my opinion.
